@@ -1,1 +1,1 @@
-# mouseless-terminal
+# Mousepoison terminal
